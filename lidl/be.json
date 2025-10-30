@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Lidl Blankenberge",
+    "address": "Brugse Steenweg 49‑53, 8370 Blankenberge",
+    "city": "Blankenberge",
+    "postcode": "8370"
+  },
+  {
+    "name": "Lidl Bredene",
+    "address": "Kapelstraat 49, 8450 Bredene",
+    "city": "Bredene",
+    "postcode": "8450"
+  },
+  {
+    "name": "Lidl Brugge",
+    "address": "Maalse Steenweg 216, 8000 Brugge",
+    "city": "Brugge",
+    "postcode": "8000"
+  },
+  {
+    "name": "Lidl De Panne",
+    "address": "Zeelaan 102‑104, 8660 De Panne",
+    "city": "De Panne",
+    "postcode": "8660"
+  },
+  {
+    "name": "Lidl Diksmuide",
+    "address": "Vaartstraat 6, 8600 Diksmuide",
+    "city": "Diksmuide",
+    "postcode": "8600"
+  },
+  {
+    "name": "Lidl Gistel",
+    "address": "Nieuwpoortsesteenweg 79, 8470 Gistel",
+    "city": "Gistel",
+    "postcode": "8470"
+  },
+  {
+    "name": "Lidl Harelbeke",
+    "address": "Gentsesteenweg 65, 8530 Harelbeke",
+    "city": "Harelbeke",
+    "postcode": "8530"
+  },
+  {
+    "name": "Lidl Ieper",
+    "address": "Rijselsepoort 5, 8900 Ieper",
+    "city": "Ieper",
+    "postcode": "8900"
+  },
+  {
+    "name": "Lidl Ingelmunster",
+    "address": "Bruggestraat 77/A, 8770 Ingelmunster",
+    "city": "Ingelmunster",
+    "postcode": "8770"
+  },
+  {
+    "name": "Lidl Izegem",
+    "address": "Krekelmotestraat 61, 8870 Izegem",
+    "city": "Izegem",
+    "postcode": "8870"
+  },
+  {
+    "name": "Lidl Knokke‑Heist",
+    "address": "Knokkestraat 216A, 8300 Knokke‑Heist",
+    "city": "Knokke‑Heist",
+    "postcode": "8300"
+  },
+  {
+    "name": "Lidl Kuurne",
+    "address": "Kleine Ringlaan 3, 8520 Kuurne",
+    "city": "Kuurne",
+    "postcode": "8520"
+  },
+  {
+    "name": "Lidl Middelkerke",
+    "address": "Papaverstraat 4, 8430 Middelkerke",
+    "city": "Middelkerke",
+    "postcode": "8430"
+  },
+  {
+    "name": "Lidl Nieuwpoort",
+    "address": "Albert I‑laan 95, 8620 Nieuwpoort",
+    "city": "Nieuwpoort",
+    "postcode": "8620"
+  },
+  {
+    "name": "Lidl Oostende",
+    "address": "Torhoutsesteenweg 572/574, 8400 Oostende",
+    "city": "Oostende",
+    "postcode": "8400"
+  },
+  {
+    "name": "Lidl Oostkamp",
+    "address": "Kortrijksestraat 51B, 8020 Oostkamp",
+    "city": "Oostkamp",
+    "postcode": "8020"
+  },
+  {
+    "name": "Lidl Poperinge",
+    "address": "Ieperse weg 8A, 8970 Poperinge",
+    "city": "Poperinge",
+    "postcode": "8970"
+  },
+  {
+    "name": "Lidl Roeselare",
+    "address": "Westlaan 269, 8800 Roeselare",
+    "city": "Roeselare",
+    "postcode": "8800"
+  },
+  {
+    "name": "Lidl Sint‑Niklaas",
+    "address": "Plezantstraat 231, 9100 Sint‑Niklaas",
+    "city": "Sint‑Niklaas",
+    "postcode": "9100"
+  },
+  {
+    "name": "Lidl Zedelgem",
+    "address": "Torhoutsesteenweg 367, 8210 Zedelgem",
+    "city": "Zedelgem",
+    "postcode": "8210"
+  }
+]
